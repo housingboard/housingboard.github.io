@@ -1,0 +1,31 @@
+
+<text>
+
+</text>
+
+<head name="MGGS Housing Board">
+
+
+<text>
+
+</text>
+
+
+<link page="main" name="Home" icon="home" >
+
+<link name="TimeTable" icon="table-list" page="timetable" >
+<link page="work-incharges" name="Work Incharges" icon="briefcase" >
+
+<link page="gallery" name="Gallery" icon="panorama" >
+
+
+<link page="staff" name="School Staff" icon="school" >
+
+<text>
+
+</text>
+
+<link name="Letter Pad" icon="file" url="https://housingboard.github.io/assets/public/2024/mggs_letterpad.pdf" >
+
+
+

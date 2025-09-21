@@ -1,0 +1,27 @@
+
+<title name="MGGS Housing Board">
+<head name="MGGS Housing Board">
+<text>
+
+</text>
+<link action="open_menu" view="inline" name="Menu" icon="menu" >
+<link page="gallery" view="inline" name="Gallery" icon="panorama" >
+
+<text>
+
+</text>
+
+**Mahatma Gandhi Govt. School**
+<text>
+English Medium 
+Free education for every child
+  for admission visit school
+
+</text>
+
+<load page="loads/mggs/periods-table" >
+
+<load page="contacts" >
+
+
+

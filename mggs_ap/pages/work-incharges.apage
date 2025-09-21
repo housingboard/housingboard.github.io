@@ -1,0 +1,18 @@
+
+<title name="MGGS Work Incharges">
+<head name="MGGS Work Incharges">
+<text>
+
+</text>
+<load page="loads/mggs/indocs-bar" >
+
+<text>
+
+</text>
+
+<load page="loads/data/work-incharges" >
+
+<load page="contacts" >
+
+
+

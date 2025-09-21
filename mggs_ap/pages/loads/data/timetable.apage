@@ -1,0 +1,473 @@
+**TimeTable - Class Wise**
+<table si_font=12 wi=10 hi=10 
+ type_0_0=head value_0_0="Summer
+
+Winter" 
+ type_0_1=head value_0_1="12:50
+13:30
+1st Period
+12:55
+13:30"
+ type_0_2=head value_0_2="13:30
+14:05
+2nd Period
+13:30
+14:00"
+ type_0_3=head value_0_3="14:05
+14:40
+3rd Period
+14:00
+14:30"
+ type_0_4=head value_0_4="14:40
+15:15
+4th Period
+14:30
+15:00"
+ type_0_5=head value_0_5="15:15
+15:40
+Half Time
+15:00
+15:25"
+ type_0_6=head value_0_6="15:40
+16:15
+5th Period
+15:25
+16:00"
+ type_0_7=head value_0_7="16:15
+16:50
+6th Period
+16:00
+16:30"
+ type_0_8=head value_0_8="16:50
+17:25
+7th Period
+16:30
+17:00"
+ type_0_9=head value_0_9="17:25
+18:00
+8th Period
+17:00
+17:30"
+ value_1_0="11 A" 
+ value_1_1="phy(sun)(123456)" 
+ value_1_2="maths(sun)(123456)" 
+ value_1_3="che(vjys)(123456)" 
+ value_1_4="eng(snd)(123456)" 
+ value_1_5="-/-"  value_1_6="hindi(snd)(123456)" 
+ value_1_7="phy_p(sun,rks)(1234)
+maths(sun)(56)" 
+ value_1_8="che_p(vjys,rks)(1234)
+maths(sun)(56)" 
+ value_1_9="supw(sun)(123)
+arts(vjys)(456)" 
+ value_2_0="11 B" 
+ value_2_1="phy(sun)(123456)" 
+ value_2_2="bio(vjys)(123456)" 
+ value_2_3="che(vjys)(123456)" 
+ value_2_4="eng(snd)(123456)" 
+ value_2_5="-/-"  value_2_6="hindi(snd)(123456)" 
+ value_2_7="phy_p(sun,rks)(1234)
+bio_p(vjys,rks)(56)" 
+ value_2_8="che_p(vjys,rks)(1234)
+bio_p(vjys,rks)(56)" 
+ value_2_9="supw(sun)(123)
+arts(vjys)(456)" 
+ value_3_0="10th" 
+ value_3_1="maths(bnd)(123456)" 
+ value_3_2="sci(sum)(123456)" 
+ value_3_3="hindi(ksn)(123456)" 
+ value_3_4="eng(vsv)(123456)" 
+ value_3_5="-/-"  value_3_6="sans(jag)(12345)
+supw(jag)(6)" 
+ value_3_7="sst(sha)(123456)" 
+ value_3_8="maths(bnd)(12)
+sci(sum)(34)
+sst(sha)(56)" 
+ value_3_9="raj(sum)(12)
+he(knt)(34)
+it(urm)(56)" 
+ value_4_0="9th" 
+ value_4_1="sci(sum)(123456)" 
+ value_4_2="eng(vsv)(123456)" 
+ value_4_3="maths(bnd)(123456)" 
+ value_4_4="sst(sha)(123456)" 
+ value_4_5="-/-"  value_4_6="hindi(ksn)(123456)" 
+ value_4_7="sans(jag)(12345)
+supw(jag)(6)" 
+ value_4_8="sci(sum)(12)
+sst(sha)(34)
+maths(bnd)(56)" 
+ value_4_9="it(urm)(12)
+raj(urm)(34)
+he(knt)(56)" 
+ value_5_0="8th" 
+ value_5_1="eng(vsv)(123456)" 
+ value_5_2="hindi(ksn)(123456)" 
+ value_5_3="sci(sum)(123456)" 
+ value_5_4="maths(bnd)(123456)" 
+ value_5_5="-/-"  value_5_6="sst(sha)(123456)" 
+ value_5_7="he(knt)(12)
+supw(sum)(34)
+arts(sum)(56)" 
+ value_5_8="sans(jag)(123456)" 
+ value_5_9="diag(vsv)(12345)
+lib(ksn)(6)" 
+ value_6_0="7th" 
+ value_6_1="sci(pnk)(123456)" 
+ value_6_2="sst(urm)(123456)" 
+ value_6_3="eng(nee)(123456)" 
+ value_6_4="sans(jag)(123456)" 
+ value_6_5="-/-"  value_6_6="maths(bnd)(123456)" 
+ value_6_7="hindi(anita)(123456)" 
+ value_6_8="diag(urm)(12345)
+lib(ksn)(6)" 
+ value_6_9="he(knt)(12)
+arts(nee)(34)
+supw(nee)(56)" 
+ value_7_0="6th" 
+ value_7_1="sst(sha)(123456)" 
+ value_7_2="sans(anita)(123456)" 
+ value_7_3="sci(pnk)(123456)" 
+ value_7_4="eng(nee)(123456)" 
+ value_7_5="-/-"  value_7_6="hindi(anita)(123456)" 
+ value_7_7="maths(pnk)(123456)" 
+ value_7_8="arts(anita)(12)
+supw(anita)(34)
+he(knt)(56)" 
+ value_7_9="lib(ksn)(1)
+diag(pnk)(23456)" 
+ value_8_0="5th" 
+ value_8_1="evs(art)(123456)" 
+ value_8_2="eng(nee)(123456)" 
+ value_8_3="hindi(manju)(123456)" 
+ value_8_4="maths(pnk)(123456)" 
+ value_8_5="-/-"  value_8_6="evs(art)(123)
+maths(pnk)(456)" 
+ value_8_7="he(man)(1234)
+supw(man)(56)" 
+ value_8_8="hindi(manju)(123)
+eng(nee)(456)" 
+ value_8_9="supw(nee)(12)
+arts(anita)(3456)" 
+ value_9_0="4th" 
+ value_9_1="maths(man)(123456)" 
+ value_9_2="hindi(manju)(123456)" 
+ value_9_3="evs(art)(123456)" 
+ value_9_4="eng(div)(123456)" 
+ value_9_5="-/-"  value_9_6="maths(man)(123)
+evs(art)(456)" 
+ value_9_7="arts(nee)(12)
+he(knt)(3456)" 
+ value_9_8="eng(div)(123)
+hindi(manju)(456)" 
+ value_9_9="arts(man)(12)
+supw(man)(3456)" 
+ value_10_0="3+2+1" 
+ value_10_1="eng(div)(123456)" 
+ value_10_2="evs(art)(123)
+maths(man)(456)" 
+ value_10_3="maths(man)(123456)" 
+ value_10_4="evs(art)(123456)" 
+ value_10_5="-/-"  value_10_6="eng(div)(123456)" 
+ value_10_7="hindi(manju)(123456)" 
+ value_10_8="he(knt)(12)
+supw(art)(3456)" 
+ value_10_9="he(div)(12)
+art(div)(3456)" 
+ >
+**
+TimeTable - Teacher Wise**<table si_font=12 wi=10 hi=20
+ type_0_0=head value_0_0="Summer
+
+Winter" 
+ type_0_1=head value_0_1="12:50
+13:30
+1st Period
+12:55
+13:30"
+ type_0_2=head value_0_2="13:30
+14:05
+2nd Period
+13:30
+14:00"
+ type_0_3=head value_0_3="14:05
+14:40
+3rd Period
+14:00
+14:30"
+ type_0_4=head value_0_4="14:40
+15:15
+4th Period
+14:30
+15:00"
+ type_0_5=head value_0_5="15:15
+15:40
+Half Time
+15:00
+15:25"
+ type_0_6=head value_0_6="15:40
+16:15
+5th Period
+15:25
+16:00"
+ type_0_7=head value_0_7="16:15
+16:50
+6th Period
+16:00
+16:30"
+ type_0_8=head value_0_8="16:50
+17:25
+7th Period
+16:30
+17:00"
+ type_0_9=head value_0_9="17:25
+18:00
+8th Period
+17:00
+17:30"
+ value_1_0="Sandeep G
+(snd)" 
+ value_1_1="OW" 
+ value_1_2="OW" 
+ value_1_3="OW" 
+ value_1_4="11a,11b(eng)(123456)" 
+ value_1_5="-/-" 
+ value_1_6="11a,11b(hindi)(123456)" 
+ value_1_7="OW" 
+ value_1_8="OW" 
+ value_1_9="OW" 
+ value_2_0="Sunil G
+(sun)" 
+ value_2_1="11a,11b(phy)(123456)" 
+ value_2_2="11a(maths)(123456)" 
+ value_2_3="OW" 
+ value_2_4="OW" 
+ value_2_5="-/-" 
+ value_2_6="OW" 
+ value_2_7="11a,11b(phy_p)(1234)
+11a(maths)(56)" 
+ value_2_8="11a(maths)(56)" 
+ value_2_9="11a,11b(supw)(123)" 
+ value_3_0="Vijayshri G
+(vjys)" 
+ value_3_1="OW" 
+ value_3_2="11b(bio)(123456)" 
+ value_3_3="11a,11b(che)(123456)" 
+ value_3_4="OW" 
+ value_3_5="-/-" 
+ value_3_6="OW" 
+ value_3_7="11b(bio_p)(56)" 
+ value_3_8="11a,11b(che_p)(1234)
+11b(bio_p)(56)" 
+ value_3_9="11a,11b(arts)(456)" 
+ value_4_0="Suman G
+(sum)" 
+ value_4_1="9(sci)(123456)" 
+ value_4_2="10(sci)(123456)" 
+ value_4_3="8(sci)(123456)" 
+ value_4_4="OW" 
+ value_4_5="-/-" 
+ value_4_6="OW" 
+ value_4_7="8(supw)(34)
+8(arts)(56)" 
+ value_4_8="9(sci)(12)
+10(sci)(34)" 
+ value_4_9="10(raj)(12)" 
+ value_5_0="Bindu G
+(bnd)" 
+ value_5_1="10(maths)(123456)" 
+ value_5_2="OW" 
+ value_5_3="9(maths)(123456)" 
+ value_5_4="8(maths)(123456)" 
+ value_5_5="-/-" 
+ value_5_6="7(maths)(123456)" 
+ value_5_7="OW" 
+ value_5_8="10(maths)(12)
+9(maths)(56)" 
+ value_5_9="OW" 
+ value_6_0="Vishvamitra G
+(vsv)" 
+ value_6_1="8(eng)(123456)" 
+ value_6_2="9(eng)(123456)" 
+ value_6_3="OW" 
+ value_6_4="10(eng)(123456)" 
+ value_6_5="-/-" 
+ value_6_6="OW" 
+ value_6_7="OW" 
+ value_6_8="OW" 
+ value_6_9="8(diag)(12345)" 
+ value_7_0="Sharvan G
+(sha)" 
+ value_7_1="6(sst)(123456)" 
+ value_7_2="OW" 
+ value_7_3="OW" 
+ value_7_4="9(sst)(123456)" 
+ value_7_5="-/-" 
+ value_7_6="8(sst)(123456)" 
+ value_7_7="10(sst)(123456)" 
+ value_7_8="9(sst)(34)
+10(sst)(56)" 
+ value_7_9="OW" 
+ value_8_0="Jagdish G
+(jag)" 
+ value_8_1="OW" 
+ value_8_2="OW" 
+ value_8_3="OW" 
+ value_8_4="7(sans)(123456)" 
+ value_8_5="-/-" 
+ value_8_6="10(sans)(12345)
+10(supw)(6)" 
+ value_8_7="9(sans)(12345)
+9(supw)(6)" 
+ value_8_8="8(sans)(123456)" 
+ value_8_9="OW" 
+ value_9_0="Kishan G
+(ksn)" 
+ value_9_1="OW" 
+ value_9_2="8(hindi)(123456)" 
+ value_9_3="10(hindi)(123456)" 
+ value_9_4="OW" 
+ value_9_5="-/-" 
+ value_9_6="9(hindi)(123456)" 
+ value_9_7="OW" 
+ value_9_8="7(lib)(6)" 
+ value_9_9="6(lib)(1)
+8(lib)(6)" 
+ value_10_0="Neelam G
+(nee)" 
+ value_10_1="OW" 
+ value_10_2="5(eng)(123456)" 
+ value_10_3="7(eng)(123456)" 
+ value_10_4="6(eng)(123456)" 
+ value_10_5="-/-" 
+ value_10_6="OW" 
+ value_10_7="4(arts)(12)" 
+ value_10_8="5(eng)(456)" 
+ value_10_9="5(supw)(12)
+7(arts)(34)
+7(supw)(56)" 
+ value_11_0="Pinky  G
+(pnk)" 
+ value_11_1="7(sci)(123456)" 
+ value_11_2="OW" 
+ value_11_3="6(sci)(123456)" 
+ value_11_4="5(maths)(123456)" 
+ value_11_5="-/-" 
+ value_11_6="5(maths)(456)" 
+ value_11_7="6(maths)(123456)" 
+ value_11_8="OW" 
+ value_11_9="6(diag)(23456)" 
+ value_12_0="Urmila G
+(urm)" 
+ value_12_1="OW" 
+ value_12_2="7(sst)(123456)" 
+ value_12_3="OW" 
+ value_12_4="OW" 
+ value_12_5="-/-" 
+ value_12_6="OW" 
+ value_12_7="OW" 
+ value_12_8="7(diag)(12345)" 
+ value_12_9="9(it)(12)
+9(raj)(34)
+10(it)(56)" 
+ value_13_0="Jitender G
+(jit)" 
+ value_13_1="OW" 
+ value_13_2="OW" 
+ value_13_3="OW" 
+ value_13_4="OW" 
+ value_13_5="-/-" 
+ value_13_6="OW" 
+ value_13_7="OW" 
+ value_13_8="OW" 
+ value_13_9="OW" 
+ value_14_0="Manish G
+(man)" 
+ value_14_1="4(maths)(123456)" 
+ value_14_2="3(maths)(456)" 
+ value_14_3="3(maths)(123456)" 
+ value_14_4="OW" 
+ value_14_5="-/-" 
+ value_14_6="4(maths)(123)" 
+ value_14_7="5(he)(1234)
+5(supw)(56)" 
+ value_14_8="OW" 
+ value_14_9="4(arts)(12)
+4(supw)(3456)" 
+ value_15_0="Aarti  G
+(art)" 
+ value_15_1="5(evs)(123456)" 
+ value_15_2="3(evs)(123)" 
+ value_15_3="4(evs)(123456)" 
+ value_15_4="3(evs)(123456)" 
+ value_15_5="-/-" 
+ value_15_6="5(evs)(123)
+4(evs)(456)" 
+ value_15_7="OW" 
+ value_15_8="3(supw)(3456)" 
+ value_15_9="OW" 
+ value_16_0="Divya  G
+(div)" 
+ value_16_1="3(eng)(123456)" 
+ value_16_2="OW" 
+ value_16_3="OW" 
+ value_16_4="4(eng)(123456)" 
+ value_16_5="-/-" 
+ value_16_6="3(eng)(123456)" 
+ value_16_7="OW" 
+ value_16_8="4(eng)(123)" 
+ value_16_9="3(he)(12)
+3(art)(3456)" 
+ value_17_0="Manju  G
+(manju)" 
+ value_17_1="OW" 
+ value_17_2="4(hindi)(123456)" 
+ value_17_3="5(hindi)(123456)" 
+ value_17_4="OW" 
+ value_17_5="-/-" 
+ value_17_6="OW" 
+ value_17_7="3(hindi)(123456)" 
+ value_17_8="5(hindi)(123)
+4(hindi)(456)" 
+ value_17_9="OW" 
+ value_18_0="Kanta  G
+(knt)" 
+ value_18_1="OW" 
+ value_18_2="OW" 
+ value_18_3="OW" 
+ value_18_4="OW" 
+ value_18_5="-/-" 
+ value_18_6="OW" 
+ value_18_7="8(he)(12)
+4(he)(3456)" 
+ value_18_8="3(he)(12)
+6(he)(56)" 
+ value_18_9="7(he)(12)
+10(he)(34)
+9(he)(56)" 
+ value_19_0="Rishabh  G
+(rks)" 
+ value_19_1="OW" 
+ value_19_2="OW" 
+ value_19_3="null(SD)(123456)" 
+ value_19_4="null(SD)(123456)" 
+ value_19_5="-/-" 
+ value_19_6="OW" 
+ value_19_7="11a,11b(phy_p)(1234)
+11b(bio_p)(56)" 
+ value_19_8="11a,11b(che_p)(1234)
+11b(bio_p)(56)" 
+ value_19_9="OW" 
+ value_20_0="Anita  G
+(anita)" 
+ value_20_1="OW" 
+ value_20_2="6(sans)(123456)" 
+ value_20_3="OW" 
+ value_20_4="OW" 
+ value_20_5="-/-" 
+ value_20_6="6(hindi)(123456)" 
+ value_20_7="7(hindi)(123456)" 
+ value_20_8="6(arts)(12)
+6(supw)(34)" 
+ value_20_9="5(arts)(3456)" 
+> 

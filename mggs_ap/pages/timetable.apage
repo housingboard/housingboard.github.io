@@ -1,0 +1,18 @@
+
+<title name="MGGS School TimeTable">
+<head name="MGGS School TimeTable">
+<text>
+
+</text>
+<load page="loads/mggs/indocs-bar" >
+
+<text>
+
+</text>
+
+<load page="loads/data/timetable" >
+
+<load page="contacts" >
+
+
+

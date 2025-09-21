@@ -1,0 +1,26 @@
+
+<text>
+</text>
+
+<head name="School Info">
+
+<pre>School NIC ID : 531877
+UDISE Code    : 08030128310
+IFMS ID       : 40666
+UCCEO Code    : UCEEO9903
+</pre>
+
+
+**Email :**
+<link name="Send" view="inline" icon="share" url="mailto:housingboardschool@gmail.com?subject=Hello&body=I wanted to reach out...">
+<text>
+housingboardschool@gmail.com
+</text>
+
+**Location :**
+<link name="Google Maps" icon="map-pin" view="inline" url="https://maps.google.com/?q=27.99226638586967,73.33185608568495">
+<text>
+    27.99226638586967 ,
+    73.33185608568495
+</text>
+

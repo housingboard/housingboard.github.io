@@ -1,0 +1,18 @@
+
+<title name="MGGS School Staff">
+<head name="MGGS School Staff">
+<text>
+
+</text>
+<load page="loads/mggs/indocs-bar" >
+
+<text>
+
+</text>
+
+<load page="loads/data/staff" >
+
+<load page="contacts" >
+
+
+

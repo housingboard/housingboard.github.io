@@ -1,0 +1,18 @@
+
+<title name="MGGS School Gallery">
+<head name="MGGS School Gallery">
+<text>
+
+</text>
+<load page="loads/mggs/indocs-bar" >
+
+<text>
+
+</text>
+
+<load page="loads/data/gallery" >
+
+<load page="contacts" >
+
+
+
