@@ -57,7 +57,15 @@ body
 }
 
 
-
+#a_view_fullbody
+{
+	position:absolute;
+	width:calc(100% - 10px);
+	margin : 0px ;
+	padding: 5px ;
+	background: linear-gradient(to left, rgba(255, 182, 193, 1), rgba(173, 216, 230, 1));
+	display:none;
+}
 
    table {
       	  border-collapse: separate;
@@ -553,6 +561,8 @@ textarea {
 	text-align:center;
 	background: transparent;
 }
+
+
 /* Custom Scrollbar Styles */
 
         ::-webkit-scrollbar {
@@ -574,7 +584,6 @@ textarea {
   
 
 
-
         
   </style>
   
@@ -591,6 +600,7 @@ textarea {
 	    <div id="a_chat_spacer"></div>
 
 </div>
+
 <div id="a_panel">
 
 	<div id="a_bar_menu" ></div>
@@ -611,6 +621,8 @@ textarea {
 	    </div>
 	</div>
 </div>
+
+<div id="a_view_fullbody" ></div>
 
     <script>
 
@@ -988,14 +1000,34 @@ console.log("chat_id="+chat_id);
 
 const params = new URLSearchParams(window.location.search);
 
-const ap_page = params.get("page"); // "John"
-if(ap_page)
-	showPage(ap_page);
-else
-	showPage("main");
+var ap_page = params.get("page"); // "John"
+if(!ap_page)
+{
+	ap_page="main"
+}
+showPage(ap_page);
+
+
 document.getElementById('myInput').value="main";
 //showPage_onele(a_gid("a_bar_menu"),"page");
 showPage_onele(a_gid("a_bar_menu"),"menu");
+
+
+const ap_page_view = params.get("view"); // "John"
+if(ap_page_view)
+{
+	if(ap_page_view == "full")
+	{
+		const a_full_page = a_gid("a_view_fullbody") ;
+		
+		a_gid("a_panel").style.display="none";
+		a_gid("a_result").style.display="none";
+		
+		a_full_page.style.display="block";
+		showPage_onele(a_full_page,ap_page);
+	}
+}
+
 
 //console.log(a_gid("a_bar_menu"));
 function showPage_onele(ele,x,type="page") {
