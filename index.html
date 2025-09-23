@@ -581,7 +581,11 @@ textarea {
             background: lightgreen; /* Color of the scrollbar thumb on hover */
         }
         
-  
+/*
+@media print {
+body {-webkit-print-color-adjust: exact;}
+}
+*/
 
 
         
@@ -1698,6 +1702,11 @@ class awnto_ms_pop{
 						if(v_val["wi_"+i+"_"+j] )
 						{
 							cell.style.width = v_val["wi_"+i+"_"+j]+"px" ;
+						}
+						if(v_val["hi_"+i+"_"+j] )
+						{
+							cell.style.height = v_val["hi_"+i+"_"+j]+"px" ;
+							console.log(v_val["hi_"+i+"_"+j]);
 						}
 						
 						if(v_val["view_"+i+"_"+j] && v_val["view_"+i+"_"+j]=="full" )
