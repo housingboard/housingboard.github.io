@@ -1,5 +1,5 @@
 **TimeTable - Class Wise**
-<table si_font=12 wi=10 hi=10 
+<table si_font=12 wi=10 hi=11 
  type_0_0=head value_0_0="Summer
 
 Winter" 
@@ -176,7 +176,7 @@ supw(art)(3456)"
 art(div)(3456)" 
  >
 **
-TimeTable - Teacher Wise**<table si_font=12 wi=10 hi=20
+TimeTable - Teacher Wise**<table si_font=12 wi=10 hi=21
  type_0_0=head value_0_0="Summer
 
 Winter" 
