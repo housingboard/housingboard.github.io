@@ -1,5 +1,5 @@
 **TimeTable - Class Wise**
-<table si_font=12 wi=10 hi=11 
+<table si_font=12 wi=10 hi=14 
  type_0_0=head value_0_0="Summer
 
 Winter" 
@@ -48,132 +48,164 @@ Half Time
 8th Period
 17:00
 17:30"
- value_1_0="11 A" 
+ value_1_0="12 A" 
  value_1_1="phy(sun)(123456)" 
- value_1_2="maths(sun)(123456)" 
- value_1_3="che(vjys)(123456)" 
- value_1_4="eng(snd)(123456)" 
- value_1_5="-/-"  value_1_6="hindi(snd)(123456)" 
- value_1_7="phy_p(sun,rks)(1234)
-maths(sun)(56)" 
- value_1_8="che_p(vjys,rks)(1234)
-maths(sun)(56)" 
+ value_1_2="eng(snd)(123456)" 
+ value_1_3="maths(sun)(123456)" 
+ value_1_4="che(vjys)(123456)" 
+ value_1_5="-/-"  value_1_6="maths(sun)(12)
+che_p(vjys,rks)(3456)" 
+ value_1_7="maths(sun)(12)
+phy_p(sun,rks)(3456)" 
+ value_1_8="hindi(ksn)(123456)" 
  value_1_9="supw(sun)(123)
-arts(vjys)(456)" 
- value_2_0="11 B" 
+arts(sun)(456)" 
+ value_2_0="12 B" 
  value_2_1="phy(sun)(123456)" 
- value_2_2="bio(vjys)(123456)" 
- value_2_3="che(vjys)(123456)" 
- value_2_4="eng(snd)(123456)" 
- value_2_5="-/-"  value_2_6="hindi(snd)(123456)" 
- value_2_7="phy_p(sun,rks)(1234)
-bio_p(vjys,rks)(56)" 
- value_2_8="che_p(vjys,rks)(1234)
-bio_p(vjys,rks)(56)" 
+ value_2_2="eng(snd)(123456)" 
+ value_2_3="bio(vjys)(123456)" 
+ value_2_4="che(vjys)(123456)" 
+ value_2_5="-/-"  value_2_6="bio_p(vjys,rks)(12)
+che_p(vjys,rks)(3456)" 
+ value_2_7="bio_p(vjys,rks)(12)
+phy_p(sun,rks)(3456)" 
+ value_2_8="hindi(ksn)(123456)" 
  value_2_9="supw(sun)(123)
-arts(vjys)(456)" 
- value_3_0="10th" 
- value_3_1="maths(bnd)(123456)" 
- value_3_2="sci(sum)(123456)" 
- value_3_3="hindi(ksn)(123456)" 
- value_3_4="eng(vsv)(123456)" 
- value_3_5="-/-"  value_3_6="sans(jag)(12345)
-supw(jag)(6)" 
- value_3_7="sst(sha)(123456)" 
+arts(sun)(456)" 
+ value_3_0="11 A" 
+ value_3_1="che(vjys)(123456)" 
+ value_3_2="maths(bnd)(123456)" 
+ value_3_3="eng(vsv)(123456)" 
+ value_3_4="phy(sun)(123456)" 
+ value_3_5="-/-"  value_3_6="supw(anita)(12)
+supw(sun)(3)
+arts(sun)(456)" 
+ value_3_7="hindi(snd)(123456)" 
  value_3_8="maths(bnd)(12)
-sci(sum)(34)
-sst(sha)(56)" 
- value_3_9="raj(sum)(12)
-he(knt)(34)
+phy_p(sun,rks)(3456)" 
+ value_3_9="maths(bnd)(12)
+che_p(vjys,rks)(3456)" 
+ value_4_0="11 B" 
+ value_4_1="che(vjys)(123456)" 
+ value_4_2="bio(vjys)(123456)" 
+ value_4_3="eng(vsv)(123456)" 
+ value_4_4="phy(sun)(123456)" 
+ value_4_5="-/-"  value_4_6="supw(anita)(12)
+supw(sun)(3)
+arts(sun)(456)" 
+ value_4_7="hindi(snd)(123456)" 
+ value_4_8="bio_p(vjys,rks)(12)
+phy_p(sun,rks)(3456)" 
+ value_4_9="bio_p(vjys,rks)(12)
+che_p(vjys,rks)(3456)" 
+ value_5_0="10th" 
+ value_5_1="maths(bnd)(123456)" 
+ value_5_2="sci(sum)(123456)" 
+ value_5_3="sst(sha)(123456)" 
+ value_5_4="eng(vsv)(123456)" 
+ value_5_5="-/-"  value_5_6="hindi(ksn)(123456)" 
+ value_5_7="sst(jag)(123456)" 
+ value_5_8="sci(sum)(12)
+maths(bnd)(34)
 it(urm)(56)" 
- value_4_0="9th" 
- value_4_1="sci(sum)(123456)" 
- value_4_2="eng(vsv)(123456)" 
- value_4_3="maths(bnd)(123456)" 
- value_4_4="sst(sha)(123456)" 
- value_4_5="-/-"  value_4_6="hindi(ksn)(123456)" 
- value_4_7="sans(jag)(12345)
-supw(jag)(6)" 
- value_4_8="sci(sum)(12)
-sst(sha)(34)
-maths(bnd)(56)" 
- value_4_9="it(urm)(12)
-raj(urm)(34)
-he(knt)(56)" 
- value_5_0="8th" 
- value_5_1="eng(vsv)(123456)" 
- value_5_2="hindi(ksn)(123456)" 
- value_5_3="sci(sum)(123456)" 
- value_5_4="maths(bnd)(123456)" 
- value_5_5="-/-"  value_5_6="sst(sha)(123456)" 
- value_5_7="he(knt)(12)
-supw(sum)(34)
-arts(sum)(56)" 
- value_5_8="sans(jag)(123456)" 
- value_5_9="diag(vsv)(12345)
-lib(ksn)(6)" 
- value_6_0="7th" 
- value_6_1="sci(pnk)(123456)" 
- value_6_2="sst(urm)(123456)" 
- value_6_3="eng(nee)(123456)" 
+ value_5_9="sst(sha)(12)
+he(anita)(34)
+raj(urm)(56)" 
+ value_6_0="9th" 
+ value_6_1="sci(sum)(123456)" 
+ value_6_2="sst(sha)(123456)" 
+ value_6_3="maths(bnd)(123456)" 
  value_6_4="sans(jag)(123456)" 
- value_6_5="-/-"  value_6_6="maths(bnd)(123456)" 
- value_6_7="hindi(anita)(123456)" 
- value_6_8="diag(urm)(12345)
-lib(ksn)(6)" 
- value_6_9="he(knt)(12)
-arts(nee)(34)
-supw(nee)(56)" 
- value_7_0="6th" 
- value_7_1="sst(sha)(123456)" 
- value_7_2="sans(anita)(123456)" 
- value_7_3="sci(pnk)(123456)" 
- value_7_4="eng(nee)(123456)" 
- value_7_5="-/-"  value_7_6="hindi(anita)(123456)" 
- value_7_7="maths(pnk)(123456)" 
- value_7_8="arts(anita)(12)
-supw(anita)(34)
-he(knt)(56)" 
- value_7_9="lib(ksn)(1)
-diag(pnk)(23456)" 
- value_8_0="5th" 
- value_8_1="evs(art)(123456)" 
- value_8_2="eng(nee)(123456)" 
- value_8_3="hindi(manju)(123456)" 
- value_8_4="maths(pnk)(123456)" 
- value_8_5="-/-"  value_8_6="evs(art)(123)
-maths(pnk)(456)" 
- value_8_7="he(man)(1234)
-supw(man)(56)" 
- value_8_8="hindi(manju)(123)
-eng(nee)(456)" 
- value_8_9="supw(nee)(12)
-arts(anita)(3456)" 
- value_9_0="4th" 
- value_9_1="maths(man)(123456)" 
- value_9_2="hindi(manju)(123456)" 
- value_9_3="evs(art)(123456)" 
- value_9_4="eng(div)(123456)" 
- value_9_5="-/-"  value_9_6="maths(man)(123)
-evs(art)(456)" 
- value_9_7="arts(nee)(12)
-he(knt)(3456)" 
- value_9_8="eng(div)(123)
-hindi(manju)(456)" 
- value_9_9="arts(man)(12)
-supw(man)(3456)" 
- value_10_0="3+2+1" 
- value_10_1="eng(div)(123456)" 
+ value_6_5="-/-"  value_6_6="eng(vsv)(123456)" 
+ value_6_7="hindi(ksn)(123456)" 
+ value_6_8="it(urm)(12)
+sci(sum)(34)
+maths(bnd)(56)" 
+ value_6_9="he(anita)(12)
+sst(sha)(34)
+raj(sha)(56)" 
+ value_7_0="8th" 
+ value_7_1="eng(vsv)(123456)" 
+ value_7_2="hindi(ksn)(123456)" 
+ value_7_3="sci(sum)(123456)" 
+ value_7_4="maths(bnd)(123456)" 
+ value_7_5="-/-"  value_7_6="sst(sha)(123456)" 
+ value_7_7="diag(sum)(12345)
+lib(sum)(6)" 
+ value_7_8="sans(jag)(123456)" 
+ value_7_9="supw(sum)(12)
+arts(vsv)(34)
+he(vsv)(56)" 
+ value_8_0="7th" 
+ value_8_1="sci(pnk)(123456)" 
+ value_8_2="sst(urm)(123456)" 
+ value_8_3="eng(nee)(123456)" 
+ value_8_4="maths(jit)(123456)" 
+ value_8_5="-/-"  value_8_6="sans(jag)(123456)" 
+ value_8_7="diag(nee)(12345)
+lib(jit)(6)" 
+ value_8_8="hindi(anita)(123456)" 
+ value_8_9="supw(ksn)(12)
+arts(ksn)(34)
+he(ksn)(56)" 
+ value_9_0="6th" 
+ value_9_1="sst(sha)(123456)" 
+ value_9_2="eng(nee)(123456)" 
+ value_9_3="hindi(anita)(123456)" 
+ value_9_4="maths(pnk)(123456)" 
+ value_9_5="-/-"  value_9_6="sci(pnk)(123456)" 
+ value_9_7="sans(anita)(123456)" 
+ value_9_8="supw(jit)(12)
+arts(art)(34)
+he(art)(56)" 
+ value_9_9="diag(nee)(12345)
+lib(nee)(6)" 
+ value_10_0="5th" 
+ value_10_1="evs(art)(123456)" 
  value_10_2="evs(art)(123)
-maths(man)(456)" 
- value_10_3="maths(man)(123456)" 
- value_10_4="evs(art)(123456)" 
- value_10_5="-/-"  value_10_6="eng(div)(123456)" 
+maths(pnk)(456)" 
+ value_10_3="maths(pnk)(123456)" 
+ value_10_4="eng(nee)(123456)" 
+ value_10_5="-/-"  value_10_6="hindi(manju)(123456)" 
  value_10_7="hindi(manju)(123456)" 
- value_10_8="he(knt)(12)
-supw(art)(3456)" 
- value_10_9="he(div)(12)
-art(div)(3456)" 
+ value_10_8="arts(div)(1234)
+he(knt)(56)" 
+ value_10_9="supw(urm)(1234)
+he(knt)(56)" 
+ value_11_0="4th" 
+ value_11_1="maths(jit)(123456)" 
+ value_11_2="maths(jit)(123)
+evs(art)(456)" 
+ value_11_3="evs(art)(123456)" 
+ value_11_4="hindi(manju)(123456)" 
+ value_11_5="-/-"  value_11_6="eng(div)(123456)" 
+ value_11_7="he(knt)(1234)
+art(div)(56)" 
+ value_11_8="hindi(manju)(123456)" 
+ value_11_9="he(knt)(1234)
+art(anita)(56)" 
+ value_12_0="3rd" 
+ value_12_1="eng(div)(123456)" 
+ value_12_2="hindi(man)(123456)" 
+ value_12_3="hindi(man)(123456)" 
+ value_12_4="evs(art)(123456)" 
+ value_12_5="-/-"  value_12_6="maths(man)(123456)" 
+ value_12_7="evs(art)(123)
+maths(man)(456)" 
+ value_12_8="he(knt)(1234)
+arts(div)(56)" 
+ value_12_9="supw(pnk)(1234)
+arts(jit)(56)" 
+ value_13_0="2nd + 1st" 
+ value_13_1="hindi(manju)(123456)" 
+ value_13_2="hindi(manju)(123456)" 
+ value_13_3="eng(div)(123456)" 
+ value_13_4="maths(man)(123456)" 
+ value_13_5="-/-"  value_13_6="evs(urm)(123456)" 
+ value_13_7="he(urm)(123456)" 
+ value_13_8="maths(man)(123456)" 
+ value_13_9="supw(div)(123)
+arts(div)(456)" 
  >
 **
 TimeTable - Teacher Wise**<table si_font=12 wi=10 hi=21
@@ -228,38 +260,42 @@ Half Time
  value_1_0="Sandeep G
 (snd)" 
  value_1_1="OW" 
- value_1_2="OW" 
+ value_1_2="12a,12b(eng)(123456)" 
  value_1_3="OW" 
- value_1_4="11a,11b(eng)(123456)" 
+ value_1_4="OW" 
  value_1_5="-/-" 
- value_1_6="11a,11b(hindi)(123456)" 
- value_1_7="OW" 
+ value_1_6="OW" 
+ value_1_7="11a,11b(hindi)(123456)" 
  value_1_8="OW" 
  value_1_9="OW" 
  value_2_0="Sunil G
 (sun)" 
- value_2_1="11a,11b(phy)(123456)" 
- value_2_2="11a(maths)(123456)" 
- value_2_3="OW" 
- value_2_4="OW" 
+ value_2_1="12a,12b(phy)(123456)" 
+ value_2_2="OW" 
+ value_2_3="12a(maths)(123456)" 
+ value_2_4="11a,11b(phy)(123456)" 
  value_2_5="-/-" 
- value_2_6="OW" 
- value_2_7="11a,11b(phy_p)(1234)
-11a(maths)(56)" 
- value_2_8="11a(maths)(56)" 
- value_2_9="11a,11b(supw)(123)" 
+ value_2_6="12a(maths)(12)
+11a,11b(supw)(3)
+11a,11b(arts)(456)" 
+ value_2_7="12a(maths)(12)
+12a,12b(phy_p)(3456)" 
+ value_2_8="11a,11b(phy_p)(3456)" 
+ value_2_9="12a,12b(supw)(123)
+12a,12b(arts)(456)" 
  value_3_0="Vijayshri G
 (vjys)" 
- value_3_1="OW" 
+ value_3_1="11a,11b(che)(123456)" 
  value_3_2="11b(bio)(123456)" 
- value_3_3="11a,11b(che)(123456)" 
- value_3_4="OW" 
+ value_3_3="12b(bio)(123456)" 
+ value_3_4="12a,12b(che)(123456)" 
  value_3_5="-/-" 
- value_3_6="OW" 
- value_3_7="11b(bio_p)(56)" 
- value_3_8="11a,11b(che_p)(1234)
-11b(bio_p)(56)" 
- value_3_9="11a,11b(arts)(456)" 
+ value_3_6="12b(bio_p)(12)
+12a,12b(che_p)(3456)" 
+ value_3_7="12b(bio_p)(12)" 
+ value_3_8="11b(bio_p)(12)" 
+ value_3_9="11b(bio_p)(12)
+11a,11b(che_p)(3456)" 
  value_4_0="Suman G
 (sum)" 
  value_4_1="9(sci)(123456)" 
@@ -268,95 +304,96 @@ Half Time
  value_4_4="OW" 
  value_4_5="-/-" 
  value_4_6="OW" 
- value_4_7="8(supw)(34)
-8(arts)(56)" 
- value_4_8="9(sci)(12)
-10(sci)(34)" 
- value_4_9="10(raj)(12)" 
+ value_4_7="8(diag)(12345)
+8(lib)(6)" 
+ value_4_8="10(sci)(12)
+9(sci)(34)" 
+ value_4_9="8(supw)(12)" 
  value_5_0="Bindu G
 (bnd)" 
  value_5_1="10(maths)(123456)" 
- value_5_2="OW" 
+ value_5_2="11a(maths)(123456)" 
  value_5_3="9(maths)(123456)" 
  value_5_4="8(maths)(123456)" 
  value_5_5="-/-" 
- value_5_6="7(maths)(123456)" 
+ value_5_6="OW" 
  value_5_7="OW" 
- value_5_8="10(maths)(12)
+ value_5_8="11a(maths)(12)
+10(maths)(34)
 9(maths)(56)" 
- value_5_9="OW" 
+ value_5_9="11a(maths)(12)" 
  value_6_0="Vishvamitra G
 (vsv)" 
  value_6_1="8(eng)(123456)" 
- value_6_2="9(eng)(123456)" 
- value_6_3="OW" 
+ value_6_2="OW" 
+ value_6_3="11a,11b(eng)(123456)" 
  value_6_4="10(eng)(123456)" 
  value_6_5="-/-" 
- value_6_6="OW" 
+ value_6_6="9(eng)(123456)" 
  value_6_7="OW" 
  value_6_8="OW" 
- value_6_9="8(diag)(12345)" 
+ value_6_9="8(arts)(34)
+8(he)(56)" 
  value_7_0="Sharvan G
 (sha)" 
  value_7_1="6(sst)(123456)" 
- value_7_2="OW" 
- value_7_3="OW" 
- value_7_4="9(sst)(123456)" 
+ value_7_2="9(sst)(123456)" 
+ value_7_3="10(sst)(123456)" 
+ value_7_4="OW" 
  value_7_5="-/-" 
  value_7_6="8(sst)(123456)" 
- value_7_7="10(sst)(123456)" 
- value_7_8="9(sst)(34)
-10(sst)(56)" 
- value_7_9="OW" 
+ value_7_7="OW" 
+ value_7_8="OW" 
+ value_7_9="10(sst)(12)
+9(sst)(34)
+9(raj)(56)" 
  value_8_0="Jagdish G
 (jag)" 
  value_8_1="OW" 
  value_8_2="OW" 
  value_8_3="OW" 
- value_8_4="7(sans)(123456)" 
+ value_8_4="9(sans)(123456)" 
  value_8_5="-/-" 
- value_8_6="10(sans)(12345)
-10(supw)(6)" 
- value_8_7="9(sans)(12345)
-9(supw)(6)" 
+ value_8_6="7(sans)(123456)" 
+ value_8_7="10(sst)(123456)" 
  value_8_8="8(sans)(123456)" 
  value_8_9="OW" 
  value_9_0="Kishan G
 (ksn)" 
  value_9_1="OW" 
  value_9_2="8(hindi)(123456)" 
- value_9_3="10(hindi)(123456)" 
+ value_9_3="OW" 
  value_9_4="OW" 
  value_9_5="-/-" 
- value_9_6="9(hindi)(123456)" 
- value_9_7="OW" 
- value_9_8="7(lib)(6)" 
- value_9_9="6(lib)(1)
-8(lib)(6)" 
+ value_9_6="10(hindi)(123456)" 
+ value_9_7="9(hindi)(123456)" 
+ value_9_8="12a,12b(hindi)(123456)" 
+ value_9_9="7(supw)(12)
+7(arts)(34)
+7(he)(56)" 
  value_10_0="Neelam G
 (nee)" 
  value_10_1="OW" 
- value_10_2="5(eng)(123456)" 
+ value_10_2="6(eng)(123456)" 
  value_10_3="7(eng)(123456)" 
- value_10_4="6(eng)(123456)" 
+ value_10_4="5(eng)(123456)" 
  value_10_5="-/-" 
  value_10_6="OW" 
- value_10_7="4(arts)(12)" 
- value_10_8="5(eng)(456)" 
- value_10_9="5(supw)(12)
-7(arts)(34)
-7(supw)(56)" 
+ value_10_7="7(diag)(12345)" 
+ value_10_8="OW" 
+ value_10_9="6(diag)(12345)
+6(lib)(6)" 
  value_11_0="Pinky  G
 (pnk)" 
  value_11_1="7(sci)(123456)" 
- value_11_2="OW" 
- value_11_3="6(sci)(123456)" 
- value_11_4="5(maths)(123456)" 
+ value_11_2="5(maths)(456)" 
+ value_11_3="5(maths)(123456)" 
+ value_11_4="6(maths)(123456)" 
  value_11_5="-/-" 
- value_11_6="5(maths)(456)" 
- value_11_7="6(maths)(123456)" 
+ value_11_6="6(sci)(123456)" 
+ value_11_7="OW" 
  value_11_8="OW" 
- value_11_9="6(diag)(23456)" 
+ value_11_9="3(supw)(1234)" 
  value_12_0="Urmila G
 (urm)" 
  value_12_1="OW" 
@@ -364,71 +401,70 @@ Half Time
  value_12_3="OW" 
  value_12_4="OW" 
  value_12_5="-/-" 
- value_12_6="OW" 
- value_12_7="OW" 
- value_12_8="7(diag)(12345)" 
- value_12_9="9(it)(12)
-9(raj)(34)
+ value_12_6="2(evs)(123456)" 
+ value_12_7="2(he)(123456)" 
+ value_12_8="9(it)(12)
 10(it)(56)" 
+ value_12_9="5(supw)(1234)
+10(raj)(56)" 
  value_13_0="Jitender G
 (jit)" 
- value_13_1="OW" 
- value_13_2="OW" 
+ value_13_1="4(maths)(123456)" 
+ value_13_2="4(maths)(123)" 
  value_13_3="OW" 
- value_13_4="OW" 
+ value_13_4="7(maths)(123456)" 
  value_13_5="-/-" 
  value_13_6="OW" 
- value_13_7="OW" 
- value_13_8="OW" 
- value_13_9="OW" 
+ value_13_7="7(lib)(6)" 
+ value_13_8="6(supw)(12)" 
+ value_13_9="3(arts)(56)" 
  value_14_0="Manish G
 (man)" 
- value_14_1="4(maths)(123456)" 
- value_14_2="3(maths)(456)" 
- value_14_3="3(maths)(123456)" 
- value_14_4="OW" 
+ value_14_1="OW" 
+ value_14_2="3(hindi)(123456)" 
+ value_14_3="3(hindi)(123456)" 
+ value_14_4="2(maths)(123456)" 
  value_14_5="-/-" 
- value_14_6="4(maths)(123)" 
- value_14_7="5(he)(1234)
-5(supw)(56)" 
- value_14_8="OW" 
- value_14_9="4(arts)(12)
-4(supw)(3456)" 
+ value_14_6="3(maths)(123456)" 
+ value_14_7="3(maths)(456)" 
+ value_14_8="2(maths)(123456)" 
+ value_14_9="OW" 
  value_15_0="Aarti  G
 (art)" 
  value_15_1="5(evs)(123456)" 
- value_15_2="3(evs)(123)" 
+ value_15_2="5(evs)(123)
+4(evs)(456)" 
  value_15_3="4(evs)(123456)" 
  value_15_4="3(evs)(123456)" 
  value_15_5="-/-" 
- value_15_6="5(evs)(123)
-4(evs)(456)" 
- value_15_7="OW" 
- value_15_8="3(supw)(3456)" 
+ value_15_6="OW" 
+ value_15_7="3(evs)(123)" 
+ value_15_8="6(arts)(34)
+6(he)(56)" 
  value_15_9="OW" 
  value_16_0="Divya  G
 (div)" 
  value_16_1="3(eng)(123456)" 
  value_16_2="OW" 
- value_16_3="OW" 
- value_16_4="4(eng)(123456)" 
+ value_16_3="2(eng)(123456)" 
+ value_16_4="OW" 
  value_16_5="-/-" 
- value_16_6="3(eng)(123456)" 
- value_16_7="OW" 
- value_16_8="4(eng)(123)" 
- value_16_9="3(he)(12)
-3(art)(3456)" 
+ value_16_6="4(eng)(123456)" 
+ value_16_7="4(art)(56)" 
+ value_16_8="5(arts)(1234)
+3(arts)(56)" 
+ value_16_9="2(supw)(123)
+2(arts)(456)" 
  value_17_0="Manju  G
 (manju)" 
- value_17_1="OW" 
- value_17_2="4(hindi)(123456)" 
- value_17_3="5(hindi)(123456)" 
- value_17_4="OW" 
+ value_17_1="2(hindi)(123456)" 
+ value_17_2="2(hindi)(123456)" 
+ value_17_3="OW" 
+ value_17_4="4(hindi)(123456)" 
  value_17_5="-/-" 
- value_17_6="OW" 
- value_17_7="3(hindi)(123456)" 
- value_17_8="5(hindi)(123)
-4(hindi)(456)" 
+ value_17_6="5(hindi)(123456)" 
+ value_17_7="5(hindi)(123456)" 
+ value_17_8="4(hindi)(123456)" 
  value_17_9="OW" 
  value_18_0="Kanta  G
 (knt)" 
@@ -438,36 +474,37 @@ Half Time
  value_18_4="OW" 
  value_18_5="-/-" 
  value_18_6="OW" 
- value_18_7="8(he)(12)
-4(he)(3456)" 
- value_18_8="3(he)(12)
-6(he)(56)" 
- value_18_9="7(he)(12)
-10(he)(34)
-9(he)(56)" 
+ value_18_7="4(he)(1234)" 
+ value_18_8="3(he)(1234)
+5(he)(56)" 
+ value_18_9="4(he)(1234)
+5(he)(56)" 
  value_19_0="Rishabh  G
 (rks)" 
  value_19_1="OW" 
  value_19_2="OW" 
- value_19_3="null(SD)(123456)" 
- value_19_4="null(SD)(123456)" 
+ value_19_3="SD(online)(123456)" 
+ value_19_4="SD(online)(123456)" 
  value_19_5="-/-" 
- value_19_6="OW" 
- value_19_7="11a,11b(phy_p)(1234)
-11b(bio_p)(56)" 
- value_19_8="11a,11b(che_p)(1234)
-11b(bio_p)(56)" 
- value_19_9="OW" 
+ value_19_6="12b(bio_p)(12)
+12a,12b(che_p)(3456)" 
+ value_19_7="12b(bio_p)(12)
+12a,12b(phy_p)(3456)" 
+ value_19_8="11b(bio_p)(12)
+11a,11b(phy_p)(3456)" 
+ value_19_9="11b(bio_p)(12)
+11a,11b(che_p)(3456)" 
  value_20_0="Anita  G
 (anita)" 
  value_20_1="OW" 
- value_20_2="6(sans)(123456)" 
- value_20_3="OW" 
+ value_20_2="OW" 
+ value_20_3="6(hindi)(123456)" 
  value_20_4="OW" 
  value_20_5="-/-" 
- value_20_6="6(hindi)(123456)" 
- value_20_7="7(hindi)(123456)" 
- value_20_8="6(arts)(12)
-6(supw)(34)" 
- value_20_9="5(arts)(3456)" 
+ value_20_6="11a,11b(supw)(12)" 
+ value_20_7="6(sans)(123456)" 
+ value_20_8="7(hindi)(123456)" 
+ value_20_9="9(he)(12)
+10(he)(34)
+4(art)(56)" 
 > 
