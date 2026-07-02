@@ -1,0 +1,36 @@
+
+<title name="MGGS Office">
+<head name="MGGS Office">
+<text>
+
+</text>
+<load page="loads/mggs/indocs-bar" >
+
+<text>
+</text>
+
+
+<link name="Admission Form" " url="https://housingboard.github.io/assets/public/2025/mggs_admission_form.pdf" >
+<link name="Admission Self Declaration" url="https://housingboard.github.io/assets/public/2026/self_declaration.pdf" >
+
+<link name="TC Application" icon="trash" url="https://housingboard.github.io/assets/public/2025/tc_application_2025.pdf" >
+
+<link name="Letter Pad" icon="file" url="https://housingboard.github.io/assets/public/2024/mggs_letterpad.pdf" >
+<link name="List Students" icon="list" url="https://housingboard.github.io/list_students.html" >
+
+<link name="Employee Offline CL" url="https://housingboard.github.io/assets/public/2025/mggs_employee_leave_application.pdf" >
+
+
+
+<text>
+</text>
+**Results**
+<link name="2026"  url="https://github.com/housingboard/assets/releases/tag/result2026" >
+<link name="2025"  url="https://github.com/housingboard/assets/releases/tag/result2025" >
+
+
+
+<load page="contacts" >
+
+
+
