@@ -16,7 +16,7 @@
 
 
   <!-- Open Graph Title -->
-  <meta property="og:title" content="MGGS Housing Board" />
+  <meta property="og:title" content="MGGS Housing Board Bikaner" />
 
   <!-- Open Graph Description (optional but recommended) -->
   <meta property="og:description" content="Welcome to MGGS" />
@@ -60,10 +60,10 @@ body
 #a_view_fullbody
 {
 	position:absolute;
-	width:calc(100% - 10px);
+	width:calc(100% - 0px);
 	margin : 0px ;
-	padding: 5px ;
-	background: linear-gradient(to left, rgba(255, 182, 193, 1), rgba(173, 216, 230, 1));
+	padding: 0px ;
+	background: rgba(255, 182, 193, 1) ;
 	display:none;
 }
 
@@ -100,10 +100,12 @@ body
 .a_codex_table_cell_odd
 {
 	background-color: lightblue ;
+	/*background-color: rgba(128, 255, 255, 0.3);*/
 }
 .a_codex_table_cell_even
 {
 	background-color: lightpink ;
+	/*background-color: rgba(255, 128, 128, 0.3);*/
 }
 
 .a_codex_table_cell_div
@@ -581,11 +583,11 @@ textarea {
             background: lightgreen; /* Color of the scrollbar thumb on hover */
         }
         
-/*
+
 @media print {
 body {-webkit-print-color-adjust: exact;}
 }
-*/
+
 
 
         
@@ -597,7 +599,7 @@ body {-webkit-print-color-adjust: exact;}
 <div id="a_result">
 
 	<div id="a_welcome">
-	Welcome to MGGS <br> <span class="a_think" >MGGS Housing Board</span>
+	Welcome to MGGS <br> <span class="a_think" >MGGS Housing Board Bikaner</span>
 	</div>
 	
 	    <div id="response"></div>
@@ -962,7 +964,7 @@ console.log("chat_id="+chat_id);
     			
     			fade_out_input();
 		    
-		    document.title = "MGGS Housing Board";
+		    document.title = "MGGS Housing Board Bikaner";
 		    //alert( userInput);
 		    //scroller();
 		    const responseContainer = document.getElementById('response');
@@ -1009,12 +1011,6 @@ if(!ap_page)
 {
 	ap_page="main"
 }
-showPage(ap_page);
-
-
-document.getElementById('myInput').value="main";
-//showPage_onele(a_gid("a_bar_menu"),"page");
-showPage_onele(a_gid("a_bar_menu"),"menu");
 
 
 const ap_page_view = params.get("view"); // "John"
@@ -1030,6 +1026,16 @@ if(ap_page_view)
 		a_full_page.style.display="block";
 		showPage_onele(a_full_page,ap_page);
 	}
+}
+else
+{
+	showPage(ap_page);
+
+
+	document.getElementById('myInput').value="main";
+	//showPage_onele(a_gid("a_bar_menu"),"page");
+	showPage_onele(a_gid("a_bar_menu"),"menu");
+
 }
 
 
