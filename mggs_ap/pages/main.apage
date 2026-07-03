@@ -21,6 +21,13 @@ Free education for every child
 
 <load page="loads/mggs/periods-table" >
 
+<text>
+
+</text>
+
+<img view=gallery src="rooms.svg" >
+
+
 <load page="contacts" >
 
 
