@@ -3,7 +3,13 @@
 		<loc>https://housingboard.github.io/</loc>
 	</url>
 	<url>
-		<loc>https://housingboard.github.io/time-table</loc>
+		<loc>https://housingboard.github.io/?page=timetable</loc>
+	</url>
+	<url>
+		<loc>https://housingboard.github.io/?page=staff</loc>
+	</url>
+	<url>
+		<loc>https://housingboard.github.io/?page=work-incharges</loc>
 	</url>
 	
 
